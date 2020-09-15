@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+docs
+site
+public
+*.local
+.gitignore
+package-lock.json
